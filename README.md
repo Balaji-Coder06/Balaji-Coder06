@@ -14,5 +14,4 @@ Exploring AI & machine learning concepts<br>
 📫 Let's Connect!<br>
 
 💼 www.linkedin.com/in/balaji-s-b7703132a<br>
-🌎 Portfolio<br>
 🏆 Open to collaboration on exciting projects!<br>
