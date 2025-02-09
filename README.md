@@ -13,6 +13,6 @@ Learning C++, Java, and Web Development (HTML, CSS, JavaScript)<br>
 Exploring AI & machine learning concepts<br>
 📫 Let's Connect!<br>
 
-💼 LinkedIn<br>
+💼 www.linkedin.com/in/balaji-s-b7703132a<br>
 🌎 Portfolio<br>
 🏆 Open to collaboration on exciting projects!<br>
