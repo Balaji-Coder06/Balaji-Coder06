@@ -1,18 +1,18 @@
-🚀 Hi, I'm Balaji S!
-💻 Aspiring Software Engineer | C, Python & Java | Web Development Enthusiast
+🚀 Hi, I'm Balaji S!<br>
+💻 Aspiring Software Engineer | C, Python & Java | Web Development Enthusiast<br>
 
-🔹 First-year Computer Science Engineering student passionate about coding.
-🔹 Skilled in C and currently learning C++, Python, Java, and Web Development.
-🔹 Exploring data structures, algorithms, and full-stack development.
-🔹 Interested in AI, software development, and open-source contributions.
+🔹 First-year Computer Science Engineering student passionate about coding.<br>
+🔹 Skilled in C and currently learning C++, Python, Java, and Web Development.<br>
+🔹 Exploring data structures, algorithms, and full-stack development.<br>
+🔹 Interested in AI, software development, and open-source contributions.<br>
 
-📌 Currently Working On:
+📌 Currently Working On:<br>
 
-Competitive coding in C and Python
-Learning C++, Java, and Web Development (HTML, CSS, JavaScript)
-Exploring AI & machine learning concepts
-📫 Let's Connect!
+Competitive coding in C and Python<br>
+Learning C++, Java, and Web Development (HTML, CSS, JavaScript)<br>
+Exploring AI & machine learning concepts<br>
+📫 Let's Connect!<br>
 
-💼 LinkedIn
-🌎 Portfolio
-🏆 Open to collaboration on exciting projects!
+💼 LinkedIn<br>
+🌎 Portfolio<br>
+🏆 Open to collaboration on exciting projects!<br>
