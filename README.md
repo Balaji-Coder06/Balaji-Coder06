@@ -1,77 +1,102 @@
-# 👾 Yo, I’m **Balaji S** 🚀  
-> *Aspiring Software Engineer | Code Ninja | Just a cool silent guy with skills*  
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+S+Balaji;Aspiring+Software+Engineer;C+%26+Python+Wizard;Full+Stack+Learner+%7C+Problem+Solver;Let's+Build+Something+Legendary!⚡" alt="Typing intro" />
+  </a>
 </div>
 
 ---
 
-## 🌌 About Me  
-- 🖤 Dark mode or nothing  
-- 🐍 I bend code like it’s a spellbook  
-- 🎯 Goal: Microsoft / Google 👑  
-- 🐾 Owner of **Siri** (the *real* assistant)  
+## 🎯 About Me  
+
+🖤 Dark mode or nothing  
+🐍 Code spells > Syntax  
+🎯 Dreaming Big → Microsoft | Google  
+🐾 Pet parent to **Siri** 🐶 (the real assistant)  
+🚀 Always building: from smart mirrors to sign-language AI  
 
 ---
 
-## 🚀 Tech Arsenal  
-<div align="center">
+## 🛠 Skills & Tools  
 
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=yellow) 
-![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) 
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)  
+**Languages & Core:**  
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)  
 
-</div>
+**Web Stack:**  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)  
+
+**Tools & Platforms:**  
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vscode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux)  
 
 ---
 
-## 🛸 Featured Projects  
-🖐️ **Sign → Voice Translator** – Gestures to speech in real-time 🔊  
-🪞 **Smart Mirror** – Mirror that shows weather, news & magic ✨  
-🎥 **Gesture-based YouTube Controller** – Play/Pause with hand waves 🤟  
+## 🪐 Featured Projects  
+
+🔮 **Sign Language Translator** → Hand Gestures ➡️ Speech 🔊  
+🪞 **Smart Mirror** → A futuristic dashboard on glass ✨  
+🎥 **Gesture-based YouTube Controller** → Control videos with waves 🤟  
 
 ---
 
-## 📈 Stats with Vibes  
-<div align="center">
+## 📊 GitHub Analytics  
 
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-Coder06&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Coder06&theme=radical)  
-
-</div>  
-
----
-
-## 🐍 Contribution Snake (Animated)  
-<div align="center">
-
-![snake gif](https://github.com/Balaji-Coder06/Balaji-Coder06/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://github.com/Balaji-Coder06"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/s-balaji06/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Balaji-Coder06&theme=radical&show_icons=true&count_private=true" alt="GitHub stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Coder06&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&theme=radical&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaji-Coder06&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 💡 Daily Quote  
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:balajisathiyamoorthy2006@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://linkedin.com/in/s-balaji06">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Balaji-Coder06">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ Final Vibe:  
-*"I don’t push commits... I drop **cosmic bombs** into the repo."* 🌌💥  
+### ⚡ Final Vibe  
+*"I don’t just write code — I drop **cosmic bombs** into the repo."* 🌌💥  
 
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" alt="Glitch" />  
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" alt="Glitch vibe" />  
 
-</div>  
+</div>
