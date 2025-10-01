@@ -1,102 +1,55 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+S+Balaji;Aspiring+Software+Engineer;C+%26+Python+Wizard;Full+Stack+Learner+%7C+Problem+Solver;Let's+Build+Something+Legendary!⚡" alt="Typing intro" />
-  </a>
-</div>
+
+<p align="center">💻 Just a cool silent guy with skills | ☯︎ Ｍｙｓｔｉｃ ☯︎ in the digital realm</p>
 
 ---
 
-## 🎯 About Me  
+## ⚡ About Me
 
-🖤 Dark mode or nothing  
-🐍 Code spells > Syntax  
-🎯 Dreaming Big → Microsoft | Google  
-🐾 Pet parent to **Siri** 🐶 (the real assistant)  
-🚀 Always building: from smart mirrors to sign-language AI  
-
----
-
-## 🛠 Skills & Tools  
-
-**Languages & Core:**  
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)  
-
-**Web Stack:**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)  
-
-**Tools & Platforms:**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vscode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux)  
+- 🎓 **CSE Student** | Passionate about low-level & full-stack dev.  
+- 🐍 Fluent in **C** and **Python**.  
+- 🌌 Building **Sign Language Translator** & **Campus Connect**.  
+- 🎯 Goal: **Microsoft / Google Placement**.  
+- ⚡ Motto: *"Hack the code, own the logic."*
 
 ---
 
-## 🪐 Featured Projects  
-
-🔮 **Sign Language Translator** → Hand Gestures ➡️ Speech 🔊  
-🪞 **Smart Mirror** → A futuristic dashboard on glass ✨  
-🎥 **Gesture-based YouTube Controller** → Control videos with waves 🤟  
-
----
-
-## 📊 GitHub Analytics  
+## 🛠 Tech Arsenal  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Balaji-Coder06&theme=radical&show_icons=true&count_private=true" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Coder06&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&theme=radical&layout=compact" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,nodejs,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 📊 GitHub Matrix  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balaji-Coder06&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-Coder06&theme=chartreuse-dark&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balaji-Coder06&theme=chartreuse-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🏆 Hacker Trophies  
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Balaji-Coder06/Balaji-Coder06/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaji-Coder06&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 💡 Daily Quote  
-
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📫 Connect with Me  
+## 📡 Connect With Me  
 
 <p align="center">
-  <a href="mailto:balajisathiyamoorthy2006@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://linkedin.com/in/s-balaji06">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Balaji-Coder06">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:balajis@example.com"><img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/s-balaji06"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://github.com/Balaji-Coder06"><img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 ---
 
-<div align="center">
-
-### ⚡ Final Vibe  
-*"I don’t just write code — I drop **cosmic bombs** into the repo."* 🌌💥  
-
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" alt="Glitch vibe" />  
-
-</div>
+<h3 align="center">⚡ "The quieter you become, the more you can hear the code." ⚡</h3>
