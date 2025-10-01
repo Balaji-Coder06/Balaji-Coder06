@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -23,13 +23,13 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          dark_mode: true      # optional for dark svg
+          dark_mode: true
           output_file: pacman-contribution-graph.svg
 
-      - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push Graph to output branch
+        uses: peaceiris/actions-gh-pages@v6
         with:
-          target_branch: output
-          build_dir: .   # point to root because SVG is in repo root
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: output
+          force_orphan: true
