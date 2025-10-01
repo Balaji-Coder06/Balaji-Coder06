@@ -18,13 +18,13 @@
 ## 🚀 Tech Arsenal  
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-111?&logo=c&logoColor=FF0033) 
-![C++](https://img.shields.io/badge/-C++-111?&logo=cplusplus&logoColor=FF0033) 
-![Python](https://img.shields.io/badge/-Python-111?&logo=python&logoColor=FF0033) 
-![Java](https://img.shields.io/badge/-Java-111?&logo=java&logoColor=FF0033) 
-![HTML](https://img.shields.io/badge/-HTML5-111?&logo=html5&logoColor=FF0033) 
-![CSS](https://img.shields.io/badge/-CSS3-111?&logo=css3&logoColor=FF0033) 
-![JS](https://img.shields.io/badge/-JavaScript-111?&logo=javascript&logoColor=FF0033)  
+![C](https://skillicons.dev/icons?i=c)  
+![C++](https://skillicons.dev/icons?i=cpp)  
+![Python](https://skillicons.dev/icons?i=python)  
+![Java](https://skillicons.dev/icons?i=java)  
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
 
 </div>
 
@@ -49,10 +49,14 @@ A **student community platform** built to bridge inter-college discussions, even
 
 ---
 
-## 🐍 Contribution Snake  
+##  Contribution
 <div align="center">
 
-![snake gif](https://github.com/Balaji-Coder06/Balaji-Coder06/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
@@ -60,8 +64,9 @@ A **student community platform** built to bridge inter-college discussions, even
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://github.com/Balaji-Coder06"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF0033" /></a>
-  <a href="https://www.linkedin.com/in/s-balaji06/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0033" /></a>
+  <a href="https://github.com/Balaji-Coder06"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+</a>
+  <a href="https://www.linkedin.com/in/s-balaji06/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </p>
 
 ---
@@ -69,6 +74,11 @@ A **student community platform** built to bridge inter-college discussions, even
 <div align="center">
 
 ### ⚡ Final Vibe:  
-*"I don’t push commits... I drop **cosmic bombs** into the repo."* 🕶️💥  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Keep+it+Silent...;Keep+it+Deadly...;Silent+coder+by+day,+cosmic+hacker+by+night" alt="Animated hacker ending" />
+  </a>
+</div>
+  
 
 </div>  
