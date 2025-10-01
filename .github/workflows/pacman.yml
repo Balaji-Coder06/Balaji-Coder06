@@ -2,7 +2,7 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -27,7 +27,7 @@ jobs:
           output_file: pacman-contribution-graph.svg
 
       - name: Push Graph to output branch
-        uses: peaceiris/actions-gh-pages@v6
+        uses: peaceiris/actions-gh-pages@v5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
