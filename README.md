@@ -9,9 +9,10 @@
 ---
 
 ## 🌌 About Me  
-- 🖤 Dark mode or nothing  
-- 🐍 I bend code like it’s a spellbook  
-- 🎯 Goal: Microsoft / Google 👑  
+- 👨‍💻 CSE Student | Code. Build. Scale.
+- 🧠 Logic × Creativity → Solutions
+- 🌌 Exploring tech, breaking limits
+- 🔥 Ordinary is boring. Extraordinary is mine.
 
 ---
 
