@@ -2,8 +2,8 @@
 ---
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Code+Ninja;Just+a+cool+silent+guy+with+skills!!" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=30&duration=2000&pause=400&color=FF0033&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Code+Ninja;Just+a+cool+silent+guy+with+skills!!" alt="Typing intro" />
+</a>
 </div> 
 
 ---
@@ -76,8 +76,8 @@ A **student community platform** built to bridge inter-college discussions, even
 ### ⚡ Final Vibe:  
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Keep+it+Silent...;Keep+it+Deadly...;Silent+coder+by+day,+cosmic+hacker+by+night" alt="Animated hacker ending" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=30&duration=2000&pause=400&color=00FF00&center=true&vCenter=true&width=700&lines=Keep+it+Silent...;Keep+it+Deadly...;Silent+coder+by+day,+cosmic+hacker+by+night" alt="Animated hacker ending" />
+</a>
 </div>
 
 </div>
