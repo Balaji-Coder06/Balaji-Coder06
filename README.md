@@ -43,7 +43,7 @@ A **student community platform** built to bridge inter-college discussions, even
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap: wrap;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Balaji-Coder06&show_icons=true&theme=tokyonight&title_color=FF0033&icon_color=FF0033&text_color=ffffff&bg_color=000000" height="170" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&layout=compact&theme=tokyonight&title_color=FF0033&text_color=ffffff&bg_color=000000" height="170" width="380" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Coder06&layout=compact&theme=tokyonight&title_color=FF0033&text_color=ffffff&bg_color=000000" height="170" width="350" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Coder06&theme=dark&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&background=000000" height="170" width="400" />
 
 
