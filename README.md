@@ -64,7 +64,6 @@ A **student community platform** built to bridge inter-college discussions, even
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:sbalaji272006@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://github.com/Balaji-Coder06"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  /></a>
   <a href="https://www.linkedin.com/in/s-balaji06/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img src="https://komarev.com/ghpvc/?username=Balaji-Coder06&color=blue" alt="Profile Views"/>
 </p>
@@ -76,7 +75,7 @@ A **student community platform** built to bridge inter-college discussions, even
 ### ⚡ Final Vibe:  
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=30&duration=2800&pause=550&color=FFFF00&center=true&vCenter=true&width=700&lines=Keep+it+Silent...;Keep+it+Deadly...;Silent+coder+by+day,+cosmic+hacker+by+night" alt="Animated hacker ending" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=30&duration=3500&pause=550&color=FFFF00&center=true&vCenter=true&width=700&lines=Keep+it+Silent...;Keep+it+Deadly...;Silent+coder+by+day,+cosmic+hacker+by+night" alt="Animated hacker ending" />
 </a>
 </div>
 
