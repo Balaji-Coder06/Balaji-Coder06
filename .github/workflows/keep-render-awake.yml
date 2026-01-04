@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping streak service
-        run: curl -s https://your-streak.onrender.com/?user=Balaji-Coder06 > /dev/null
+        run: curl -s https://github-readme-streak-stats-fdlq.onrender.com/?user=Balaji-Coder06 > /dev/null
