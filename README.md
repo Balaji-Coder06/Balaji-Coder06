@@ -64,7 +64,7 @@ A **student community platform** built to bridge inter-college discussions, even
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:sbalaji272006@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/s-balaji06/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/sbalaji0627"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img src="https://komarev.com/ghpvc/?username=Balaji-Coder06&color=blue" alt="Profile Views"/>
 </p>
 
